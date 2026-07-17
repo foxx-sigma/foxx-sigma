@@ -137,3 +137,8 @@ Demo application for a PDAM system
 <sub>"Code is the closest thing we have to building the future by hand."</sub>
 
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/foxx-sigma/foxx-sigma/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/foxx-sigma/foxx-sigma/output/github-contribution-grid-snake.svg" />
+</picture>
