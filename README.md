@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Aesar;Front-End+Developer;Building+clean%2C+modern+interfaces" alt="Typing SVG" />
 
-### Learning How To Build modern interfaces through clean code and thoughtful design.
+### Learning how to build modern interfaces through clean code and thoughtful design.
 
 <sub>Front-End focused · Full-stack aware · Based in Indonesia</sub>
 
