@@ -63,13 +63,12 @@ I'm a Front-End Developer with a strong interest in building interfaces that fee
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,androidstudio" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" alt="Tools" />
 
 **Environment & Infrastructure**
 
 <img src="https://skillicons.dev/icons?i=ubuntu,vscode" alt="Environment" />&nbsp;
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
 ![Webmin](https://img.shields.io/badge/Webmin-7B1FA2?style=flat)
 
 <br/>
