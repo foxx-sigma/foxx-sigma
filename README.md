@@ -35,11 +35,11 @@ I'm a Front-End Developer with a strong interest in building interfaces that fee
 
 ## Current Focus
 
-- 🧩 Building modern, responsive web interfaces
-- 🎨 Improving UI/UX craftsmanship in real projects
-- ⚙️ Sharpening front-end fundamentals with modern JS frameworks
-- 🔗 Exploring full-stack development end-to-end
-- 🚀 Shipping small, practical projects to keep learning by doing
+-  Building modern, responsive web interfaces
+-  Improving UI/UX craftsmanship in real projects
+-  Sharpening front-end fundamentals with modern JS frameworks
+-  Exploring full-stack development end-to-end
+-  Shipping small, practical projects to keep learning by doing
 
 <br/>
 
