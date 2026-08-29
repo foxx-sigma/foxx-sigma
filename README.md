@@ -47,7 +47,7 @@ I'm a Front-End Developer with a strong interest in building interfaces that fee
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,html,css,mysql" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,html,css,mysql,php" alt="Languages" />
 
 **Frontend**
 
@@ -59,7 +59,7 @@ I'm a Front-End Developer with a strong interest in building interfaces that fee
 
 **Database & ORM**
 
-<img src="https://skillicons.dev/icons?i=mysql,mariadb,prisma" alt="Database" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,prisma" alt="Database" />
 
 **Tools**
 
@@ -68,8 +68,8 @@ I'm a Front-End Developer with a strong interest in building interfaces that fee
 **Environment & Infrastructure**
 
 <img src="https://skillicons.dev/icons?i=ubuntu,vscode" alt="Environment" />&nbsp;
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
-![Webmin](https://img.shields.io/badge/Webmin-7B1FA2?style=flat)
+
+
 
 <br/>
 
@@ -83,20 +83,20 @@ I'm a Front-End Developer with a strong interest in building interfaces that fee
 
 Demo application for a PDAM system
 
-**Tech Stack:** NextJs · Proxy 
+**Tech Stack:** Next.js · Proxy 
 
-[Repository](https://github.com/foxx-sigma/pdam-app) · [Live Demo](#)
+[Repository](https://github.com/foxx-sigma/pdam-app) · [Live Demo](https://pdam-app-nine.vercel.app/)
 
 </td>
 <td width="50%">
 
-### [Project Name]
+### MockeT
 
 [Short project description]
 
-**Tech Stack:** [Technology 1] · [Technology 2] · [Technology 3]
+**Tech Stack:** Next.js · Tailwind CSS · JWT Auth
 
-[Repository](#) · [Live Demo](#)
+[Repository](https://github.com/foxx-sigma/moket1) · [Live Demo](https://moket.vercel.app/)
 
 </td>
 </tr>
