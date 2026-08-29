@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Aesar;Front-End+Developer;Building+clean%2C+modern+interfaces" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Aesar;Full-Stack+Developer" alt="Typing SVG" />
 
-### Learning how to build modern interfaces through clean code and thoughtful design.
 
-<sub>Front-End focused · Full-stack aware · Based in Indonesia</sub>
+
+<sub> Full-stack focused · Based in Indonesia</sub>
 
 <br/>
 
@@ -20,28 +20,20 @@
 
 ```ts
 const aesar = {
-  role: "Front-End Developer",
-  focus: ["Modern web interfaces", "Clean UI", "User experience"],
-  currentlyExploring: "Full-stack web development",
-  philosophy: "Simple, readable code beats clever code.",
+  role: "Full-Stack Developer",
+  focus: ["End-to-end web applications", ""RESTful APIs and backend systems", "Full-stack applications with modern technologies"],
+  currentlyExploring: "System & Cloud architecture",
+  goal: "Become a well-rounded Full-Stack Developer.",
 };
 ```
 
 
 
-I'm a Front-End Developer with a strong interest in building interfaces that feel modern, responsive, and intuitive. I care about clean UI, thoughtful user experience, and writing code that's easy to maintain. Alongside front-end work, I'm continuously deepening my understanding of full-stack development to build more complete, production-ready products.
 
-<br/>
+I'm a Full-Stack Developer who enjoys turning ideas into complete web applications. I like creating intuitive interfaces, developing backend logic, designing APIs, and working with databases to bring an application together. I care about writing code that's simple and maintainable, while continuously learning and improving my skills through the projects I build.
 
-## Current Focus
 
--  Building modern, responsive web interfaces
--  Improving UI/UX craftsmanship in real projects
--  Sharpening front-end fundamentals with modern JS frameworks
--  Exploring full-stack development end-to-end
--  Shipping small, practical projects to keep learning by doing
 
-<br/>
 
 ## Tech Stack
 
@@ -125,7 +117,7 @@ Demo application for a PDAM system
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-38BDF8?style=flat&logo=gmail&logoColor=white)](mailto:aesaraulayainhernando@gmail.com)
 &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/aesr.a_)
+
 
 </div>
 
@@ -133,7 +125,7 @@ Demo application for a PDAM system
 
 <div align="center">
 
-<sub>"Code is the closest thing we have to building the future by hand."</sub>
+<sub>"Just a human who also needs coffee."</sub>
 
 </div>
 
