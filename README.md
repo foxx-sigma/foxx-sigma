@@ -43,7 +43,7 @@ I'm a Full-Stack Developer who enjoys turning ideas into complete web applicatio
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,html,css,mysql,php" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,php" alt="Languages" />
 
 **Frontend**
 
