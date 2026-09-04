@@ -23,8 +23,7 @@ const aesar = {
   role: "Full-Stack Developer",
   focus: [
     "End-to-end web applications",
-    "RESTful APIs and backend systems",
-    "Full-stack applications with modern technologies",
+    "Full-stack websites",
   ],
   currentlyExploring: "System & Cloud architecture",
   goal: "Become a well-rounded Full-Stack Developer.",
