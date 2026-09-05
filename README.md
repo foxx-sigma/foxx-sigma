@@ -33,7 +33,7 @@ const aesar = {
 
 
 
-I'm a Full-Stack Developer who enjoys turning ideas into complete web applications. I like creating intuitive interfaces, developing backend logic, designing APIs, and working with databases to bring an application together. I care about writing code that's simple and maintainable, while continuously learning and improving my skills through the projects I build.
+I'm a Full-Stack Developer who likes turning ideas into working apps — frontend, backend, APIs, databases, all of it. I try to keep my code simple and easy to maintain, and I pick up most of what I know from the projects I actually build.
 
 
 
