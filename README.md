@@ -68,36 +68,7 @@ I'm a Full-Stack Developer who likes turning ideas into working apps — fronten
 
 <br/>
 
-## Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### PDAM APP
-
-Demo application for a PDAM system
-
-**Tech Stack:** Next.js · Proxy 
-
-[Repository](https://github.com/foxx-sigma/pdam-app) · [Live Demo](https://pdam-app-nine.vercel.app/)
-
-</td>
-<td width="50%">
-
-### MockeT
-
-[Short project description]
-
-**Tech Stack:** Next.js · Tailwind CSS · JWT Auth
-
-[Repository](https://github.com/foxx-sigma/moket1) · [Live Demo](https://moket.vercel.app/)
-
-</td>
-</tr>
-</table>
-
-<br/>
 
 ## GitHub Activity
 
